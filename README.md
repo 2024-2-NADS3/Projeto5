@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img src="C:\Users\I584966\Downloads\Colorful Illustration Healthy Food Planner Presentation.png" alt="FoodWise" border="0">
+<img src="https://ibb.co/02MX2Kc" alt="FoodWise" border="0">
 
 ## Descrição:
 
