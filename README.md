@@ -32,7 +32,7 @@ Com o objetivo de evitar desperdício e facilitar a doação de alimentos que vo
   &emsp;|-->HTML<br>
   
 |-->imagens<br>
-  &emsp;|-->Bootstrap_5.0_Screenshot.png<br>
+  &emsp;|-->
 
 |-->src<br>
   &emsp;|-->Backend<br>
@@ -81,4 +81,3 @@ Aqui estão as referências usadas no projeto:
 3. 
 4. 
 
-[Licença CC 4.0]([https://chooser-beta.creativecommons.org/](https://creativecommons.org/licenses/by/4.0/)
