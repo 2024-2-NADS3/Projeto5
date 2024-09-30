@@ -47,7 +47,8 @@ Com o objetivo de evitar desperdício e facilitar a doação de alimentos que vo
 <b><a href="https://alpine-cork-54d.notion.site/PI-Aplicativo-Mobile-7244bdbd83034526abf24079a646da7b?pvs=4">Notion</a></b>
 
 ## 📂 Documentos:
-- 
+- <b><a href="https://drive.google.com/file/d/1REJKZiSbLJVFsJSDli5Nv06gU_8bvW_T/view?usp=sharing">Storyboard</a></b>
+
 
 ## 💻 Configuração para Desenvolvimento
 Para executar este projeto, são necessárias as seguintes ferramentas:
