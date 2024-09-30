@@ -46,6 +46,9 @@ Com o objetivo de evitar desperdício e facilitar a doação de alimentos que vo
 
 <b><a href="https://alpine-cork-54d.notion.site/PI-Aplicativo-Mobile-7244bdbd83034526abf24079a646da7b?pvs=4">Notion</a></b>
 
+## 📂 Documentos:
+- 
+
 ## 💻 Configuração para Desenvolvimento
 Para executar este projeto, são necessárias as seguintes ferramentas:
 
@@ -60,14 +63,14 @@ Para executar este projeto, são necessárias as seguintes ferramentas:
 A cada atualização os detalhes devem ser lançados aqui.
 
 * 0.2.1 - 20/08/2024
-    * Inicio do desenvolvimento no Android Studio
-    * Desenvolvendo as telas de "inicio" e "login"
+    * Inicio do desenvolvimento no Android Studio.
+    * Desenvolvendo as telas de "inicio" e "login".
 * 0.2.0 - 13/08/2024
-    * Definir cores e design
+    * Definir cores e design.
 * 0.1.1 - 08/08/2024
-    * Definição do Tema
+    * Definição do Tema.
 * 0.0.1 - 06/08/2024
-    * Trabalho em andamento
+    * Trabalho em andamento.
 
 ## 📋 Licença/License
 
