@@ -47,14 +47,14 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
 
 ## 🛠 Acesso
 
-<b><a href="https://www.figma.com/design/tjqtLThx4aJjNfmZOYDbXo/Untitled?node-id=0-1&t=QHKqCsIj649KF0ts-1">Figma</a></b>
+<b><a href="https://www.figma.com/design/B5mBc04JXVIKuqE1drn8Vb/Prot%C3%B3tipo-App-FOODWISE?node-id=0-1">Figma</a></b>
 
-<b><a href="https://conexoessolidariasads.netlify.app/"> Projeto</a></b>
+<b><a href="https://www.notion.so/PI-Aplicativo-Mobile-7244bdbd83034526abf24079a646da7b?pvs=4">Notion</a></b>
 
 ## 💻 Configuração para Desenvolvimento
 Para executar este projeto, são necessárias as seguintes ferramentas:
 
-<b><a href="https://visualstudio.microsoft.com/pt-br/vs/">Visual Studio 2022</a></b>
+<b><a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapXinE3_OX-JtdmdOZ5dpXf-9fcQUkVSaQjmGKnExcd1RtIx_rj4KBoaAkupEALw_wcB&gclsrc=aw.ds&hl=pt-br">Android Studio</a></b>
 
 <b><a href="https://nodejs.org/en">Node.js</a></b>
 
