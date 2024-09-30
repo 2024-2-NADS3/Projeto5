@@ -48,6 +48,11 @@ Com o objetivo de evitar desperdício e facilitar a doação de alimentos que vo
 
 ## 📂 Documentos:
 - <b><a href="https://drive.google.com/file/d/1REJKZiSbLJVFsJSDli5Nv06gU_8bvW_T/view?usp=sharing">Storyboard</a></b>
+- <b><a href="https://drive.google.com/file/d/1jEWHbE9p5ZUdFr7QHY-s-lN2WkD0zY44/view?usp=sharing">Mapa de Jornada</a></b>
+- <b><a href="https://drive.google.com/file/d/1jEWHbE9p5ZUdFr7QHY-s-lN2WkD0zY44/view?usp=sharing">Personas</a></b>
+- <b><a href="https://drive.google.com/file/d/1PTF-hO44H3EuiifuURCua3z2m_73g4ii/view?usp=sharing">User Storie</a></b>
+- <b><a href="https://drive.google.com/file/d/1u3Gj8IqFrY8fEEI7EZOHQXDXxFDVpWFk/view?usp=sharing">ODS</a></b>
+
 
 
 ## 💻 Configuração para Desenvolvimento
