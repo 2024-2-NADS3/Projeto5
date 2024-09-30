@@ -17,7 +17,6 @@
 
 ## Descrição:
 Com o objetivo de evitar desperdício e facilitar a doação de alimentos que você tem em casa, que não vai consumir e estão próximos da validade, o aplicativo conecta você diretamente a pessoas que precisam. De forma simples e eficiente, ele promove a solidariedade, tornando-se a ferramenta ideal para quem deseja contribuir com a comunidade e fazer a diferença.
-
 <br><br>
 
 ## 🛠 Estrutura de pastas
