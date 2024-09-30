@@ -49,7 +49,7 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
 
 <b><a href="https://www.figma.com/design/B5mBc04JXVIKuqE1drn8Vb/Prot%C3%B3tipo-App-FOODWISE?node-id=0-1">Figma</a></b>
 
-<b><a href="https://www.notion.so/PI-Aplicativo-Mobile-7244bdbd83034526abf24079a646da7b?pvs=4">Notion</a></b>
+<b><a href="https://alpine-cork-54d.notion.site/PI-Aplicativo-Mobile-7244bdbd83034526abf24079a646da7b?pvs=4">Notion</a></b>
 
 ## 💻 Configuração para Desenvolvimento
 Para executar este projeto, são necessárias as seguintes ferramentas:
