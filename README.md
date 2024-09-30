@@ -16,8 +16,8 @@
 <img src="https://i.ibb.co/xLjsLYD/Colorful-Illustration-Healthy-Food-Planner-Presentation.png" alt="Colorful-Illustration-Healthy-Food-Planner-Presentation" border="0">
 
 ## Descrição:
+Com o objetivo de evitar desperdício e facilitar a doação de alimentos que você tem em casa, que não vai consumir e estão próximos da validade, o aplicativo conecta você diretamente a pessoas que precisam. De forma simples e eficiente, ele promove a solidariedade, tornando-se a ferramenta ideal para quem deseja contribuir com a comunidade e fazer a diferença.
 
-Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs, proporcionando-lhes maior visibilidade e reconhecimento. Além disso, buscamos conectar voluntários às causas com as quais se identificam, facilitando a descoberta das melhores oportunidades de voluntariado para cada pessoa. Nosso objetivo é ajudar cada pessoa a contribuir para a construção de um mundo melhor.
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -29,7 +29,6 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
   &emsp;|-->antigos<br>
   
 |-->executáveis<br>
-  &emsp;|-->windows<br>
   &emsp;|-->android<br>
   &emsp;|-->HTML<br>
   
@@ -38,12 +37,9 @@ Nosso site foi desenvolvido com o propósito de ampliar a divulgação das ONGs,
 
 |-->src<br>
   &emsp;|-->Backend<br>
-  &emsp;|Colocar os códigos do Backend Aqui.txt<br>
-  &emsp;|DiagramaModeloBD.png<br>
-  &emsp;|ProjetoBD.sql<br>
-  
+
   &emsp;|-->Frontend<br>
-  &emsp;|Colocar os códigos do Frontend Aqui.txt<br>
+
 
 ## 🛠 Acesso
 
@@ -56,13 +52,8 @@ Para executar este projeto, são necessárias as seguintes ferramentas:
 
 <b><a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapXinE3_OX-JtdmdOZ5dpXf-9fcQUkVSaQjmGKnExcd1RtIx_rj4KBoaAkupEALw_wcB&gclsrc=aw.ds&hl=pt-br">Android Studio</a></b>
 
-<b><a href="https://nodejs.org/en">Node.js</a></b>
-
 <b><a href="https://dev.mysql.com/downloads/workbench/">My.Sql</a></b>
 
-<b><a href="https://code.visualstudio.com/download">Visual Studio Code</a></b>
-
-<b><a href="https://azure.microsoft.com/pt-br/free/cosmos-db/search/?ef_id=_k_CjwKCAjw9cCyBhBzEiwAJTUWNbnfUlZ0-ruug-ACbEDOggFhrFQr9wgYXMUZZdl1jlIVN30m6NKgSxoCBm0QAvD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_CjwKCAjw9cCyBhBzEiwAJTUWNbnfUlZ0-ruug-ACbEDOggFhrFQr9wgYXMUZZdl1jlIVN30m6NKgSxoCBm0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw9cCyBhBzEiwAJTUWNbnfUlZ0-ruug-ACbEDOggFhrFQr9wgYXMUZZdl1jlIVN30m6NKgSxoCBm0QAvD_BwE">Microsft Azure</a></b>
 
 
 ## 🗃 Histórico de lançamentos
@@ -74,25 +65,23 @@ A cada atualização os detalhes devem ser lançados aqui.
 * 0.3.0 - 15/01/2022
     * Troca total do HTML e CSS para React
     * 
-* 0.2.0 - 11/01/2022
-    * Desenvolvimento do CSS e HTML
-    * Sites montados
-* 0.1.1 - 24/02/2024
-    * Escolha das cores que serão utilizadas no site
-    * Definição do Tema do Site
-* 0.0.1 - 14/02/2024
+* 0.2.0 - 13/08/2022
+    * Definir cores e design
+* 0.1.1 - 08/08/2024
+    * Definição do Tema
+* 0.0.1 - 06/08/2024
     * Trabalho em andamento
 
 ## 📋 Licença/License
 
-Conexões Solidarias © 2024 by Sergio Pedote, Emilly Depine, Fernando José, Kauã Torres is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
 
-1. https://learn.microsoft.com/pt-br/
-2. https://sejavoluntario.org.br/
-3. https://www.apabb.org.br/seja-voluntario.html
-4. https://creativecommons.org/licenses/by/4.0/
+1. 
+2.
+3. 
+4. 
 
 [Licença CC 4.0]([https://chooser-beta.creativecommons.org/](https://creativecommons.org/licenses/by/4.0/)
