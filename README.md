@@ -59,12 +59,10 @@ Para executar este projeto, são necessárias as seguintes ferramentas:
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.3.0 - 15/01/2022
-    * Troca total do HTML e CSS para React
-    * 
-* 0.2.0 - 13/08/2022
+* 0.2.1 - 20/08/2024
+    * Inicio do desenvolvimento no Android Studio
+    * Desenvolvendo as telas de "inicio" e "login"
+* 0.2.0 - 13/08/2024
     * Definir cores e design
 * 0.1.1 - 08/08/2024
     * Definição do Tema
