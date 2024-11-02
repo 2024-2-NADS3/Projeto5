@@ -16,7 +16,8 @@
 <img src="https://i.ibb.co/xLjsLYD/Colorful-Illustration-Healthy-Food-Planner-Presentation.png" alt="Colorful-Illustration-Healthy-Food-Planner-Presentation" border="0">
 
 ## Descrição:
-Com o objetivo de evitar desperdício e facilitar a doação de alimentos que você tem em casa, que não vai consumir e estão próximos da validade, o aplicativo conecta você diretamente a pessoas que precisam. De forma simples e eficiente, ele promove a solidariedade, tornando-se a ferramenta ideal para quem deseja contribuir com a comunidade e fazer a diferença.
+Foodwise é um aplicativo que incentiva a doação de alimentos e ajuda a conectar pessoas que precisam, criando uma comunidade unida pelo propósito de combater a fome e o desperdício. Inspirado nas ODS (Objetivos de Desenvolvimento Sustentável) da ONU, o Foodwise promove ações alinhadas ao ODS 2 (Fome Zero) e ao ODS 12 (Consumo e Produção Responsáveis).
+O foco do app é promover uma rede de apoio, onde doadores possam compartilhar alimentos e refeições saudáveis com aqueles que precisam. Ao utilizar o Foodwise, você faz parte de uma plataforma que incentiva o consumo consciente e a redução do desperdício de comida, gerando um impacto positivo no mundo.
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -79,7 +80,7 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Trabalho em andamento.
 
 ## 📋 Licença/License
-
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/orgs/2024-2-NADS3/teams/grupo5">FoodWise</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/gustavoaraujos">Gustavo Araujo, Emilly Depine, Renan Teixeira, Fernando José</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 🎓 Referências
 
