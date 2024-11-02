@@ -6,7 +6,7 @@
 
 # FoodWise 🥗
 
-## Integrantes: <a href="https://www.linkedin.com/in/emillydepine/">Emilly Depine</a>, <a href="https://www.linkedin.com/in/fernando-jos%C3%A9-dos-santos-a7a449135/">Fernando José</a>, <a href="https://www.linkedin.com/in/gustavo-santos-543853246/">Gustavo Santos</a> e <a href="https://www.linkedin.com/in/renan-teixeira-pinheiro-62b550238/">Renan Teixeira</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/emillydepine/">Emilly Depine</a>, <a href="https://www.linkedin.com/in/fernando-jos%C3%A9-dos-santos-a7a449135/">Fernando José</a>, <a href="https://www.linkedin.com/in/gustavo-santos-543853246/">Gustavo Araujo</a> e <a href="https://www.linkedin.com/in/renan-teixeira-pinheiro-62b550238/">Renan Teixeira</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/vheltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson Silva</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a> e <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins</a>.
 
