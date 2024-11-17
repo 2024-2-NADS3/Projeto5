@@ -1,0 +1,23 @@
+CREATE DATABASE APIdoPI;
+USE APIdoPI;
+CREATE TABLE Usuario (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    NomeCompleto VARCHAR(255) NOT NULL,
+    Email VARCHAR(255) NOT NULL UNIQUE,
+    Senha VARCHAR(255) NOT NULL
+);
+CREATE TABLE Post (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    UsuarioId INT,
+    FotoUrl VARCHAR(255) NOT NULL,
+    Legenda TEXT,
+    CONSTRAINT fk_usuario FOREIGN KEY (UsuarioId) REFERENCES Usuario(Id)
+);
+CREATE TABLE Comentario (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    PostId INT,
+    UsuarioId INT,
+    Texto TEXT NOT NULL,
+    CONSTRAINT fk_post FOREIGN KEY (PostId) REFERENCES Post(Id),
+    CONSTRAINT fk_usuario_comentario FOREIGN KEY (UsuarioId) REFERENCES Usuario(Id)
+);
