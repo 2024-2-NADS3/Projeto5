@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Estado quando o checkbox está marcado -->
+    <item android:state_checked="true">
+            <solid android:color="#80BE76"/> <!-- Cor quando marcado -->
+    </item>
+    <!-- Estado quando o checkbox não está marcado -->
+    <item android:state_checked="false">
+            <solid android:color="#FFFFFF"/> <!-- Cor quando desmarcado -->
+    </item>
+</selector>

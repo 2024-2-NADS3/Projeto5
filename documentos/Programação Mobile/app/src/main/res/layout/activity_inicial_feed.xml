@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- Imagem do usuário -->
+    <ImageView
+        android:id="@+id/image_view_user"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <!-- Nome do usuário -->
+    <TextView
+        android:id="@+id/text_view_username"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:text="User A"
+        app:layout_constraintEnd_toStartOf="@+id/image_view_more"
+        app:layout_constraintStart_toEndOf="@+id/image_view_user"
+        app:layout_constraintTop_toTopOf="@+id/image_view_user" />
+
+    <!-- Botão de opções -->
+    <ImageView
+        android:id="@+id/image_view_more"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/image_view_user"
+        app:srcCompat="@drawable/ic_more_horiz_24"
+        app:tint="@color/gray" />
+
+    <!-- Tempo do post -->
+    <TextView
+        android:id="@+id/text_view_time"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:textColor="@color/gray"
+        app:layout_constraintBottom_toBottomOf="@+id/image_view_user"
+        app:layout_constraintStart_toEndOf="@+id/image_view_user"
+        tools:text="2 mins" />
+
+    <!-- Conteúdo do post -->
+    <TextView
+        android:id="@+id/text_view_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:text="Texto do post"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_view_user" />
+
+    <!-- Imagem do post -->
+    <ImageView
+        android:id="@+id/image_view_post"
+        android:layout_width="382dp"
+        android:layout_height="210dp"
+        android:layout_marginTop="8dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintDimensionRatio="16:9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_view_content"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+    <!-- Container do post -->
+    <LinearLayout
+        android:id="@+id/post_container"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/image_view_post">
+
+        <!-- Título do post -->
+        <TextView
+            android:id="@+id/text_view_post_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            tools:text="BLOG.GOOGLE.COM" />
+
+        <!-- Subtítulo do post -->
+        <TextView
+            android:id="@+id/text_view_post_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            tools:text="BLOG.GOOGLE.COM BLOG.GOOGLE.COM BLOG.GOOGLE.COM" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="vertical"
+            android:padding="0dp">
+
+            <!-- Botão Comentar -->
+            <Button
+                android:id="@+id/button_coment"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:background="@null"
+                android:backgroundTint="#7CC1E8"
+                android:padding="10dp"
+                android:text="@string/coment"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+
+            <!-- Texto Comentários -->
+            <TextView
+                android:id="@+id/text_view_comments"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Comentários:"
+                android:textColor="@android:color/black"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

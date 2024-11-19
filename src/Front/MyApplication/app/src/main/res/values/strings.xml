@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="salada_de_macarrao"><u>Salada de Macarrão Light</u></string>
+    <string name="salada_ceaser"><u>Salada Ceaser</u></string>
+    <string name="lasanha_de_berinjela"><u>Lasanha de Berinjela</u></string>
+    <string name="galinhada"><u>Galinhada</u></string>
+    <string name="bolo_de_banana"><u>Bolo de Banana</u></string>
+    <string name="coment">coment</string>
+
+
+</resources>
