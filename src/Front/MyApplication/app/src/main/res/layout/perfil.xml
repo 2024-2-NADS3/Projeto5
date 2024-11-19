@@ -20,7 +20,7 @@
         android:layout_height="200dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/pessoa"
+        app:srcCompat="@drawable/pessoa1"
         tools:layout_editor_absoluteY="121dp" />
 
     <TextView
